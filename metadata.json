@@ -1,0 +1,6 @@
+{
+  "name": "TERRA - 3D Environmental Digital Twin",
+  "description": "See the environment. Understand it. Change it. An immersive 3D geospatial environmental twin with real-time intelligence, interactive WHAT-IF simulations, and community action.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
